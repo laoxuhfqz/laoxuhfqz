@@ -12,19 +12,15 @@ import ZkTable from 'vue-table-with-tree-grid'
 // 导入富文本编辑器
 import VueQuillEditor from 'vue-quill-editor'
 // 导入富文本编辑器对应的样式
-import 'quill/dist/quill.core.css' // import styles
-import 'quill/dist/quill.snow.css' // for snow theme
-import 'quill/dist/quill.bubble.css' // for bubble theme
 
 // import ElementUI from 'element-ui'
 // import 'element-ui/lib/theme-chalk/index.css'
 // Vue.use(ElementUI)
 // 非全局组件
-import './plugin/element.js'
+// import './plugin/element.js'
 
 // 导入NProgress包对应的JS和CSS
 import NProgress from 'nprogress'
-import 'nprogress/nprogress.css'
 
 // 引入字体图标
 import './assets/fonts/iconfont.css'
